@@ -42,16 +42,18 @@ Tenho vivência em desenvolvimento web, estruturação de bancos de dados com **
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Autodesk](https://img.shields.io/badge/CAD%20%2F%203D-000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
-# 🚀 Projetos & Experiência:
+# 🚀 Projetos:
 
-**🛒 Sistema de Vendas, Estoque e Caixa** <br>
-Aplicação web para gerenciamento de eventos universitários. Responsável pela estruturação do sistema e pela modelagem do banco de dados em **Supabase**, com controle de operações em tempo real.
+**🔎 [rag-do-zero](https://github.com/annalimonta/rag-do-zero)** — Pipeline de RAG em Python puro <br>
+Segmentação, BM25, embeddings e busca híbrida com Reciprocal Rank Fusion, cada etapa implementada de forma explícita para entender o que o framework esconde. Roda offline, sem chave de API. 68 testes, 96% de cobertura, CI em três versões do Python.
 
-**🏎️ Controle de TBI com Arduino** <br>
-Simulação de uma **ECU** (Unidade de Controle do Motor) para acionamento de um corpo de borboleta eletrônico (TBI): leitura de sinais de pedal, controle de abertura, eletrônica aplicada e rotinas de automação automotiva.
+**🛒 [sistema-vendas-eventos](https://github.com/annalimonta/sistema-vendas-eventos)** — PDV para eventos universitários <br>
+Vendas, estoque e caixa em **PostgreSQL/Supabase**, com o saldo derivado do livro-razão de movimentos, venda inteira em uma transação e RLS em todas as tabelas. Front-end em JavaScript puro, sem build. O SQL é validado na CI pelo parser oficial do PostgreSQL.
 
-**🤖 Desenvolvimento com Ferramentas de IA** <br>
-Aplicação prática de assistentes de programação (**Claude**, **Codex**) para exploração de soluções, aceleração do ciclo de desenvolvimento e estruturação de arquiteturas inteligentes.
+**🏎️ [controle-tbi-arduino](https://github.com/annalimonta/controle-tbi-arduino)** — Simulação de ECU para corpo de borboleta eletrônico <br>
+Leitura redundante do pedal, verificação de plausibilidade entre as duas pistas, **PID** com anti-windup e limp home travado em caso de falha. A lógica de decisão não inclui `Arduino.h`, então roda nos testes de bancada no PC — 54 verificações na CI, além da compilação do firmware para o Uno.
+
+# 💼 Experiência:
 
 **💡 BV8 Power — Desenvolvimento de Projetos e Tecnologia** <br>
 Produtos e soluções eletrônicas para o setor automotivo em todas as fases — concepção, prototipagem, validação e monitoramento —, integrando hardware e software em aplicações digitais de acompanhamento dos produtos.
