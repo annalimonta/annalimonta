@@ -59,7 +59,7 @@ Leitura redundante do pedal, verificação de plausibilidade entre as duas pista
 Produtos e soluções eletrônicas para o setor automotivo em todas as fases — concepção, prototipagem, validação e monitoramento —, integrando hardware e software em aplicações digitais de acompanhamento dos produtos.
 
 **🏁 Optimus Formula SAE — UFG** <br>
-Membro de Elétrica/Eletrônica e Diretoria Geral: aquisição e tratamento de dados de telemetria e sistemas elétricos do veículo de competição, além do planejamento e acompanhamento de atividades multidisciplinares da equipe.
+Membro de Powertrain & Eletrônica e Diretoria Geral: aquisição e tratamento de dados de telemetria e sistemas elétricos do veículo de competição, além do planejamento e acompanhamento de atividades multidisciplinares da equipe.
 
 # 🎓 Formação:
 - **Bacharelado em Engenharia da Computação** — Universidade Federal de Goiás (UFG) · *2026 – Atual*
