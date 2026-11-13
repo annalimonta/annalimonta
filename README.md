@@ -65,9 +65,6 @@ Membro de Elétrica/Eletrônica e Diretoria Geral: aquisição e tratamento de d
 - **Bacharelado em Engenharia da Computação** — Universidade Federal de Goiás (UFG) · *2026 – Atual*
 - **Bacharelado em Engenharia Física** — Universidade Federal de Goiás (UFG) · *2024 – 2026/1 (transição de curso)*
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=annalimonta&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=annalimonta&theme=tokyo-night&hide_border=true&area=true)
 
 <!-- Os cartões abaixo usam a instância pública do github-readme-stats, que está temporariamente fora do ar (DEPLOYMENT_PAUSED).
      Quando o serviço voltar, basta remover este comentário para exibi-los.
