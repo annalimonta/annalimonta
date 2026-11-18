@@ -62,8 +62,8 @@ Produtos e soluções eletrônicas para o setor automotivo em todas as fases —
 Membro de Powertrain & Eletrônica e Diretoria Geral: aquisição e tratamento de dados de telemetria e sistemas elétricos do veículo de competição, além do planejamento e acompanhamento de atividades multidisciplinares da equipe.
 
 # 🎓 Formação:
-- **Bacharelado em Engenharia da Computação** — Universidade Federal de Goiás (UFG) · *2026 – Atual*
-- **Bacharelado em Engenharia Física** — Universidade Federal de Goiás (UFG) · *2024 – 2026/1 (transição de curso)*
+- **Bacharelado em Engenharia da Computação** — Universidade Federal de Goiás (UFG) · *2024 – Atual*
+
 
 
 <!-- Os cartões abaixo usam a instância pública do github-readme-stats, que está temporariamente fora do ar (DEPLOYMENT_PAUSED).
